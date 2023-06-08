@@ -1,7 +1,4 @@
-
-
 import java.util.Scanner;
-
 public class MedicalExpert {
     private String username ="";
     private String chestPain ="";
